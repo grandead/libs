@@ -5,3 +5,9 @@
 ### r
 
 "r" is small "requarejs"
+
+### messenger
+
+"messanger" realized "Mediator" pattern
+
+
